@@ -20,13 +20,5 @@ int main(void) {
 	char Name2[100] = "abc";
 	printf("Computer name: %s \n", Name);
 
-	int a, b, c;
-
-	a = 1;
-	b = 2;
-	c = a + b;
-
-	printf("%d+%d=%d \n", a, b, c);
-
 	return 0;
 }
